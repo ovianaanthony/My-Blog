@@ -1,0 +1,16 @@
+.container__articles{
+  margin-top: 30px;
+
+  display: flex;
+  flex-direction: row;  /* os artigos são configurados para serem exibidos em linha*/
+  justify-content: center;
+}
+
+.articles__others{
+  margin-left: 40px;
+}
+
+header{
+  display: flex;
+  justify-content: center;
+}
