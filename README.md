@@ -1,7 +1,7 @@
-#My-Blog
+# My-Blog
 * A blog built for share some articles, dissertations, notes or some texts developed by angular, css, html and javascript. 
 
-# BlogAngular
+## BlogAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
