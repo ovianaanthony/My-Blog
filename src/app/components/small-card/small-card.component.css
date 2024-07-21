@@ -1,6 +1,6 @@
 .container__small-card{
   /* border: 1px solid white;*/
-  width: 700px;
+  width: 102%;
   margin-bottom: 15px;
 }
 
@@ -10,16 +10,16 @@
 }
 
 .small-card__photo > img{
-  width: 200px;
-  min-width: 200px;
-  margin-right: 20px;
+  max-width: 200px;
+  min-width: 47%;
 }
 
 .small-card__title{
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 78%;
+  font-size: 75%;
+  margin-left: 3%;
 }
 
 .small-card__title> h1{
@@ -30,5 +30,5 @@
 }
 
 .container__small-card__separator{
-  margin-top: 10px;
+  margin-top: 2%;
 }

@@ -1,18 +1,17 @@
 .container__big-card{
   /* border: solid white 2px; serve para visualizar, posteriormente apaga esta linha*/
-  width: 600px;
-  height: 500px;
-  margin-left: 20px;
-  margin-right: 20px;
+  width: 70%;
+  height: 130%;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
+  margin-left: 14%;
 }
 
 .big-card__title > h1{
-  font-size: 20px;
-  margin-top: 15px;
+  font-size: 140%;
+  margin-top: 5%;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -21,7 +20,7 @@
 }
 
 .big-card__description{
-  margin-top: 10px;
+  margin-top: 2%;
 }
 
 .big-card__description > p{
@@ -30,8 +29,8 @@
 }
 
 .big-card__photo > img{
-  width: 100%;
-  min-width: 600px;
+  width: 110%;
+  min-width: 110%;
 }
 
 
