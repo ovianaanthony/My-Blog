@@ -19,8 +19,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 78%;
 }
 
+.small-card__title> h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
 .small-card__title > h1:hover{
   color:blue;
 }

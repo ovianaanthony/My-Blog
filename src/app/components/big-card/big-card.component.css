@@ -13,6 +13,7 @@
 .big-card__title > h1{
   font-size: 20px;
   margin-top: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .big-card__title > h1:hover{
@@ -25,6 +26,7 @@
 
 .big-card__description > p{
   color: gray;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .big-card__photo > img{

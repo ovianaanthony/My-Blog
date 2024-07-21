@@ -1,0 +1,12 @@
+<div class="container__content">
+  <a [routerLink]="['']"><<   BACK</a>   <!-- No angular, para retornar a página ao utilizar a tag 'a', de praxe, utilizar o routerLink e não o href -->
+  <div class="content__cover">
+    <img src="{{ photoCover }}" alt="" srcset="">
+  </div>
+  <div class="content__title">
+    <h1>{{cardTitle}}</h1>
+  </div>
+  <div class="content__description">
+    <div class="content__description-div" [innerHTML]="this.cardDescription"></div>
+  </div>
+</div>

@@ -1,0 +1,60 @@
+.container__content{
+  /*border: 1px solid white;*/
+  width: 100%;
+  height: 100vh;   /* vh é um tipo de visualização o qual ocupa toda tela mesmo em tamanhos diferente*/
+
+  margin-top: 20px;
+
+}
+
+.container__content > a{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: lighter;
+  margin-left: 30px;
+  font-size: 20px;
+}
+
+.container__content > a:hover{
+  color:blue;
+}
+
+.content__cover > img{
+  border: 0.5px solid rgb(194, 150, 150);
+  border-radius: 5px;
+  width: 500px;
+  height: 300px;
+  min-width: 500px;
+}
+
+.content__title{
+  margin-top: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content__title > h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 40px;
+}
+
+.content__cover{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content__description{
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-bottom: 50px;
+  align-items: center;
+}
+
+.content__description-div{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
