@@ -1,0 +1,29 @@
+
+@media screen and (max-width: 900px){
+
+  .container__small-card{
+    /* border: 1px solid white;*/
+    width: 110px;
+    margin-bottom: 10px;
+  }
+
+  .small-card__photo > img{
+    max-width: 50px;
+    min-width: 40px;
+  }
+
+  .small-card__title{
+    font-size: 2px;
+  }
+
+  .container__small-card__separator{
+    margin-top: 1px;
+  }
+}
+
+
+
+
+
+
+

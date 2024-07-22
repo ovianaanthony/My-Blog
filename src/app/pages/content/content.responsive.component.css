@@ -1,0 +1,28 @@
+@media screen and (max-width: 900px){
+
+  .container__content{
+    margin-top: 20px;
+  }
+
+  .container__content > a{
+    margin-left: 20px;
+    font-size: 13px;
+  }
+
+  .content__cover > img{
+    width: 200px;
+  }
+
+  .content__cover{
+    margin-right: 200px;
+  }
+
+  .content__title{
+    font-size: 10px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+}
+

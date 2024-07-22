@@ -1,0 +1,12 @@
+@media screen and (max-width: 900px){
+  .container__articles{
+    margin-right: 50px;
+    margin-top: 24px;
+  }
+  .articles__others{
+    margin-left: 50px;
+    margin-right: 8%;
+  }
+
+}
+
