@@ -3,17 +3,17 @@
 
   .container__small-card{
     /* border: 1px solid white;*/
-    width: 180px;
+    width: 170px;
     margin-bottom: 10px;
   }
 
   .small-card__photo > img{
-    max-width: 80px;
+    max-width: 77px;
     min-width: 75px;
   }
 
   .small-card__title{
-    font-size: 3.5px;
+    font-size: 3.2px;
   }
 
   .container__small-card__separator{
