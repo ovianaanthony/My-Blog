@@ -26,7 +26,7 @@
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .small-card__title > h1:hover{
-  color:blue;
+  color:rgb(201, 146, 253);
 }
 
 .container__small-card__separator{

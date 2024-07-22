@@ -9,6 +9,14 @@
   font-family: 'Times New Roman', Times, serif;
   display: flex;
   justify-content: center;
+  transition-property: font-size;
+  transition-duration: .3s;
+  transition-timing-function: linear;
+  transition-delay: .5s;
+}
+
+.container__menu-title > h1:hover{
+  font-size: 830%;
 }
 
 .container__menu-title > hr{

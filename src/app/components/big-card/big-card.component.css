@@ -16,7 +16,7 @@
 }
 
 .big-card__title > h1:hover{
-  color:blue;
+  color: rgb(201, 146, 253);
 }
 
 .big-card__description{
