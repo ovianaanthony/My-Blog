@@ -9,20 +9,16 @@
     font-size: 13px;
   }
 
-  .content__cover > img{
-    width: 200px;
-  }
-
-  .content__cover{
-    margin-right: 200px;
-  }
-
   .content__title{
     font-size: 10px;
     align-items: center;
     justify-content: center;
     margin-left: 25px;
     margin-right: 25px;
+  }
+
+  .content__cover > img{
+    margin-top: 18px;
   }
 }
 

@@ -1,8 +1,4 @@
 @media screen and (max-width: 900px){
-  .container__menu-bar > ul{
-    margin-right: 85px;
-  }
-
   .container__menu-bar > ul > li{
     margin-top: 15px;
     margin-right: 5px;

@@ -3,8 +3,7 @@
 
   .container__big-card{
     /* border: solid white 2px; serve para visualizar, posteriormente apaga esta linha*/
-    width: 170px;
-    height: 130%;
+    width: 250px;
     margin-left: 2px;
     display: flex;
     flex-direction: column;
@@ -13,18 +12,18 @@
   }
 
   .big-card__title > h1{
-    font-size: 10px;
+    font-size: 16px;
     margin-top: 5%;
   }
 
     .big-card__photo > img{
-      width: 150px;
+      width: 250px;
       min-width: 150px;
-      height: 80px;
+      height: 120px;
     }
 
     .big-card__description{
-      font-size: 10px;
+      font-size: 12px;
     }
 }
 
