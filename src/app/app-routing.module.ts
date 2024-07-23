@@ -14,7 +14,7 @@ const routes: Routes = [
   },
   {
     path: '**',
-    redirectTo: '/'         /* Adicionado para redirecionar urls inválidas da página para a home page*/
+    redirectTo: ''         /* Adicionado para redirecionar urls inválidas da página para a home page*/
   }
 ];
 
