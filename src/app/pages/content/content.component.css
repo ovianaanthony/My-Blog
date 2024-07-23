@@ -59,5 +59,5 @@
 
 .container__content > hr{
   margin-top: 3%;
-  color: black;
+  border: none;
 }

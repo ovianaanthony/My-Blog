@@ -11,6 +11,10 @@ const routes: Routes = [
   {
     path:'content/:id',            /* essa modificação se faz presente para que o conteúdo acessado na home tenha ligação com o da página content */
     component: ContentComponent
+  },
+  {
+    path: '**',
+    redirectTo: '/'         /* Adicionado para redirecionar urls inválidas da página para a home page*/
   }
 ];
 
