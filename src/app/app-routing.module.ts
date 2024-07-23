@@ -5,7 +5,7 @@ import { ContentComponent } from './pages/content/content.component';
 
 const routes: Routes = [
   {
-    path: '',
+    path: '/',
     component: HomeComponent      /*Modifica-se aqui e adiciona para criar mais de uma página no mesmo site, redirecionamneto ou no contexto mais específico, ao clicar na notícia amplia para os detalhes do texto em outra guia*/
   },
   {
