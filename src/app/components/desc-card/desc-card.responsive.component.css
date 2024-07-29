@@ -1,0 +1,23 @@
+@media screen and (max-width: 900px){
+  .card_fit{
+    width: 140px;
+    height: 132px;
+    border-radius: 20px;
+    padding: 20px;
+    font-size: 9px;
+    margin-bottom: 40px;
+  }
+
+  .card_head > h2{
+    padding-top: 0px;
+    font-size: 6px;
+  }
+
+  .card_fit > hr{
+    margin-bottom: 10px ;
+  }
+
+  .card_heading > h2{
+    font-size: 5.7px;
+  }
+}

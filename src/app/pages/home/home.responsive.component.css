@@ -1,11 +1,14 @@
 @media screen and (max-width: 900px){
   .container__articles{
     margin-top: 28px;
-    margin-left: 20px;
+    margin-left: 32px;
   }
   .articles__others{
     margin-left: 18px;
   }
-
+  .articles_title{
+    margin-right: 57px;
+    margin-top: 75px;
+  }
 }
 

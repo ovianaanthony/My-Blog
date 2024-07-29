@@ -12,3 +12,16 @@
   margin-right: 8%;
 }
 
+.container__fit{
+  display: flex;
+  justify-content: center;
+}
+
+.articles_title{
+  margin-top: 120px;
+  display: flex;
+  justify-content: center;
+  margin-left: 80px;
+  margin-bottom: 30px;
+}
+

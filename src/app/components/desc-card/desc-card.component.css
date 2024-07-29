@@ -1,0 +1,40 @@
+.card_fit{
+  width: 280px;
+  height: 300px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  background-color: #17141d;
+  padding: 30px;
+  font-size: 9px;
+  position: relative;
+  justify-content: space-between;
+  box-shadow: 0 0 0 90px 0 rgba(0, 0, 0, 1);
+  text-align: center;
+  margin-left: -155px;
+  margin-bottom: 60px;
+}
+
+.card_head > h2{
+  padding-top: 10px;
+  background-color: #17141d;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.card_fit > hr{
+  position: relative;
+  margin-bottom: 60px ;
+}
+
+.card_heading > h2{
+  background-color: #17141d;
+  font-family:Arial, Helvetica, sans-serif;
+  color: rgb(178, 173, 173);
+}
+
+.card_heading > hr{
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border: none;
+  background-color: #17141d;
+}

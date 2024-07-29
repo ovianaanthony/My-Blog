@@ -1,0 +1,45 @@
+.container_fit{
+  padding: 60px;
+}
+
+.card_fit{
+  width: 268px;
+  height: 272px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  background-color: #17141d;
+  padding: 30px;
+  font-size: 9px;
+  position: relative;
+  justify-content: space-between;
+  box-shadow: 0 0 0 90px 0 rgba(0, 0, 0, 1);
+  transition: .6s;
+  text-align: center;
+}
+
+.card_fit:hover{
+  transform: translateY(-20px);
+}
+
+.tag_fit{
+  background-color: #17141d;
+}
+
+.tag_fit > a {
+  display: inline-block;
+  border: solid 3px #28242f;
+  border-radius: 30px;
+  padding: 8px 25px;
+  margin-bottom: 3px;
+  margin-left: 3px;
+  text-decoration: none;
+  color: #7a7a8c;
+  font-weight: bold;
+  background-color: #17141d;
+}
+
+.tag_fit > a:hover{
+  color:rgb(201, 146, 253);
+  border-color: white;
+}
