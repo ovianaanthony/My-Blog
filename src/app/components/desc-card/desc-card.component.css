@@ -38,3 +38,7 @@
   border: none;
   background-color: #17141d;
 }
+
+.card_space > hr{
+  border: none;
+}

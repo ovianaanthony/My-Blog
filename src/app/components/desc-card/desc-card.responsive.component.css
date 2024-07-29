@@ -1,7 +1,7 @@
 @media screen and (max-width: 900px){
   .card_fit{
     width: 140px;
-    height: 142px;
+    height: 150px;
     border-radius: 20px;
     padding: 15px;
     font-size: 9px;
@@ -19,5 +19,10 @@
 
   .card_heading > h2{
     font-size: 5.7px;
+  }
+
+  .card_space > hr{
+    padding-bottom: 25px;
+    background-color: #17141d;
   }
 }
