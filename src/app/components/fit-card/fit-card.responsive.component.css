@@ -1,20 +1,20 @@
 @media screen and (max-width: 900px){
   .container_fit{
-    padding: 8px;
+    padding: 7px;
     margin-bottom: 20px;
   }
 
   .tag_fit > a {
     border: solid 2px #28242f;
     border-radius: 20px;
-    padding: 3px 11px;
+    padding: 3px 9px;
     margin-bottom: 2px;
     margin-left: .8px;
-    font-size: 4.5px;
+    font-size: 3.8px;
   }
 
   .card_fit{
-    width: 114.1px;
+    width: 115px;
     height: 114px;
     border-radius: 20px;
     padding: 7px;

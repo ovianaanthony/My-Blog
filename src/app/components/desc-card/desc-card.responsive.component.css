@@ -1,9 +1,9 @@
 @media screen and (max-width: 900px){
   .card_fit{
     width: 140px;
-    height: 132px;
+    height: 142px;
     border-radius: 20px;
-    padding: 20px;
+    padding: 15px;
     font-size: 9px;
     margin-bottom: 40px;
   }
